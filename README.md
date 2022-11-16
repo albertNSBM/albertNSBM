@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @albertNSBM
+- 👋 Hi, I’m Albert Nsabimana (@albertNSBM)
 - 👀 I’m interested in programming languages and Artificial Intelligent and IoT
 - 🌱 I’m currently learning studyin gin Universtity of Rwanda in Information Technology
 -  I’m software develper especially in mobile applcation with Flutter framework 
